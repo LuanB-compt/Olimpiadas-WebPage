@@ -1,0 +1,87 @@
+#header_title{
+    background-color: rgb(196, 196, 196);
+}
+
+#titulo1{
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    margin-top:3%;
+    color: maroon;
+}
+
+#imagem1{
+    text-align: center;
+    margin-top: auto;
+}
+
+#quadro_medalhas{
+    max-width: 888px;
+    margin: auto;
+    width: auto;
+    justify-content: center;
+}
+
+#subtitulo1{
+    font-style: normal;
+    text-align: center;
+    margin-top: 1%;
+    color: rgb(0, 0, 0);
+    font: 3%;
+}
+
+#texto1{
+    font-style: normal;
+    text-align: left;
+    margin-top: 2%;
+    font: 3%;
+    margin-left: 16%;
+    margin-right: 16%;
+    color: black;
+}
+
+#subtitulo2{
+    font-style: normal;
+    text-align: center;
+    margin-top: 3%;
+    color: black;
+    font: 3%;
+}
+
+#texto2 p{
+    font-style: normal;
+    text-align: justify;
+    margin-top: 0,7%;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: black;
+
+}
+
+
+#subtitulo3{
+    font-style: normal;
+    text-align: center;
+    margin-top: 5%;
+    color: maroon;
+
+}
+
+
+#texto3{
+    font-style: normal;
+    text-align: left;
+    margin-top: 3%;
+    margin-left: 32%;
+    margin-right: 32%;
+    color: black;
+
+}
+
+#texto4{
+
+    text-align: center;
+    margin-top: 4%;
+    color: rgb(85, 85, 85);
+
+}

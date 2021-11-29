@@ -1,0 +1,21 @@
+article{
+    text-align: center;
+    margin: 30px 0px 0px 0px;
+}
+
+div.carousel-inner{
+    min-height: 550px;
+}
+
+/*div.carousel-indicators{
+    margin-top: 30px;
+}*/
+
+/*div.carousel-caption{
+    margin-top: 30px;
+}*/
+
+/*
+h3.h3_carrosel{
+    padding-top: 40px;
+}*/

@@ -1,0 +1,41 @@
+div.container {
+    padding: 0;
+}
+
+/*Texto*/
+p {
+    font-family: Calibri;
+    font-size: 25px;
+}
+
+/*Imagem*/
+img{
+    width: 50%;
+    margin-left: 20%;
+    background-color: blue;
+    border-radius: 50px;
+    background-attachment: scroll;
+}
+
+h3{
+    text-align: right;
+}
+
+/*Integrantes*/
+ul.lista {
+    margin: 0;
+}
+
+li.lista_elm_ {
+    margin: 0;
+    padding: 0;
+    list-style-type: square;
+}
+
+
+
+/*p.lista_ra {
+    margin: 0;
+    text-align: left;
+    margin: 100%;
+}*/

@@ -1,0 +1,57 @@
+#logo_facens{
+    max-width: 500px;
+    height: auto;
+    text-align: center;
+    background-color: blue;
+    border-radius: 50px;
+    background-attachment: scroll;
+}
+
+h4{
+    text-align: center;
+    padding-top: 10px;
+}
+
+p{
+    text-align: left;
+    margin: 0;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+div.col{
+    text-align: center;
+    padding-top: 15px;
+}
+div#div_logo_facens{
+    margin-bottom: 45px;
+}
+
+
+
+div.container-fluid.mt-3{
+    margin-bottom: 30px;
+}
+
+figcaption{
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+figure{
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+}
+
+img{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    max-height: 300px;
+    width: auto;
+    border-radius: 50%;
+}
+

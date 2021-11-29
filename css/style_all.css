@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(196, 196, 196);
+}
+
+header {
+    background-color: white;
+}
+
+/*Menu*/
+li {
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 2.5%;
+  }
+
+li a {
+    font-weight: bold;
+    display: block;
+    color: white;
+    padding: 10px 15px 15px;
+    text-decoration: none;
+  }
+
+.navbar-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg%27%3E%3Cpath stroke='rgb(128,0,0)' stroke-width='4' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+#div_menu {
+    justify-content: center;
+}
+
+.nav-link{
+    width: max-content;
+    color: maroon;
+}
+
+.nav-item:hover {
+    background-color: maroon;
+    color: white;
+}
+
+a.nav-link.active:hover{
+    font-weight: bold;
+    color: white;
+}
+
+a.nav-link:hover{
+    font-weight: bold;
+    color: white;
+}

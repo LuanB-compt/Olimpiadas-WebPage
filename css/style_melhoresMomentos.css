@@ -1,0 +1,71 @@
+.container {
+    padding: 0;
+}
+
+.col{
+    text-align: center;
+}
+
+#imagem1{
+    margin-left: 5%;
+    margin-top: auto;
+
+}
+
+#texto1{
+    font-style: normal;
+    text-align: justify;
+    margin-top: -21%;
+    font: 3%;
+    margin-left: 25%;
+    margin-right: 16%;
+    color: black;
+}
+
+#imagem2{
+    margin-left: 2%;
+    margin-top: 3%;
+
+}
+
+#texto2{
+    font-style: normal;
+    text-align: justify;
+    margin-top: -18%;
+    font: 3%;
+    margin-left: 37%;
+    margin-right: 16%;
+    color: black;
+}
+
+#imagem3{
+    margin-left: 65%;
+    margin-top: -46%;
+
+}
+
+#texto3{
+    font-style: normal;
+    text-align: justify;
+    margin-top: auto;
+    font: 3%;
+    margin-left: 65%;
+    margin-right: auto;
+    color: black;
+}
+
+#imagem4{
+    margin-left: 65%;
+    margin-top: auto;
+
+}
+
+#texto4{
+    font-style: normal;
+    text-align: justify;
+    margin-top: auto;
+    font: 3%;
+    margin-left: 65%;
+    margin-right: auto;
+    color: black;
+}

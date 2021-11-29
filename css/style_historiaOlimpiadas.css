@@ -1,0 +1,57 @@
+/*Texto principal*/
+div.container-fluid.mt-3 {
+    border: 5px black solid;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 15px;    
+    padding: 0 7%;
+}
+
+article h4 {
+    font-weight: bold;
+    color: rgb(128, 0, 0);
+    margin: 0;
+    margin-bottom: 50px;
+}
+
+article h5 {
+    text-align: center;
+    font-weight: bold;
+    color: maroon;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+div.col-lg-6.col-md-6.col-sm-12 p{
+    border: 2px black solid;
+    text-align: justify;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0 5px;
+}
+
+/*Imagens do Topo e Final*/
+div.col{
+    text-align: center;
+}
+
+figcaption{
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 15px
+}
+
+div.container {
+    margin-bottom: 15px;
+}
+
+.imagens_conteudo {
+    max-height: 230px;
+    /*margin-left: 15%;*/
+    margin: auto;
+    width: auto;
+    justify-content: center;
+    /*padding-bottom: 15px;*/
+}
