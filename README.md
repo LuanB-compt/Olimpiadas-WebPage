@@ -13,7 +13,7 @@ O site consiste basicamente em 5 Páginas, e cada uma com um tópico específico
   * Logo da faculdade, turma dos alunos, tema do projeto, junto com o nome, RA e uma foto de cada aluno.
 
 # **Criadores:**
-#### - JEOVANNI CONSERVANI SILVA         [![Linkedin Badg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
+#### - JEOVANNI CONSERVANI SILVA         [![Linkedin Badg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]() (sem link)
 #### - LUAN BRUNO DOMINGUES DE OLIVEIRA  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-bruno-2004031bb/)](https://www.linkedin.com/in/luan-bruno-2004031bb/)
-#### - PEDRO GABRIEL DOS SANTOS          [![Linkedin Badg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
-#### - PEDRO HENRIQUE ANDRADE ZANCHETTA  [![Linkedin Badg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
+#### - PEDRO GABRIEL DOS SANTOS          [![Linkedin Badg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]() (sem link)
+#### - PEDRO HENRIQUE ANDRADE ZANCHETTA  [![Linkedin Badg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]() (sem link)
