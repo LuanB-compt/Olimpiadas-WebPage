@@ -1,4 +1,34 @@
-.container {
+article{
+    text-align: center;
+}
+
+div.div_titulo{
+    color: rgb(128, 0, 0);
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+div.div_quadros{
+    text-align: center;
+    margin-top: 20px;
+}
+
+img{
+    max-width: 50%;
+}
+
+div.legenda{
+    margin: auto;
+    padding-top: 10px;
+    max-width: 750px;
+    width: auto;
+    text-align: justify;
+    justify-content: center;
+}
+
+
+/*.container {
     padding: 0;
 }
 
@@ -68,4 +98,4 @@
     margin-left: 65%;
     margin-right: auto;
     color: black;
-}
+}*/
