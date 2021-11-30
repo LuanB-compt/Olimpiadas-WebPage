@@ -18,6 +18,6 @@ O site consiste basicamente em 5 Páginas, sendo 3 delas com um tópico específ
 #### - JEOVANNI CONSERVANI SILVA         [![Linkedin Badg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]() (sem link)
 #### - LUAN BRUNO DOMINGUES DE OLIVEIRA  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-bruno-2004031bb/)](https://www.linkedin.com/in/luan-bruno-2004031bb/)
 #### - PEDRO GABRIEL DOS SANTOS          [![Linkedin Badg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]() (sem link)
-#### - PEDRO HENRIQUE ANDRADE ZANCHETTA  [![Linkedin Badg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]() (sem link)
+#### - PEDRO HENRIQUE ANDRADE ZANCHETTA  [![Linkedin Badg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/pedro-zanchetta-9a0a61200)
 
 ------------------------------------------------------------------------------------------------------------------
